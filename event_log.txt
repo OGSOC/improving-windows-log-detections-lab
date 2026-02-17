@@ -1,0 +1,11 @@
+Event ID: 4688
+Host: WS-031
+User: it.admin
+Process: powershell.exe
+CommandLine: powershell.exe -ExecutionPolicy Bypass -File patch.ps1
+
+Event ID: 4688
+Host: WS-044
+User: temp.user
+Process: powershell.exe
+CommandLine: powershell.exe -NoProfile -ExecutionPolicy Bypass -enc SQBFAFgAIAAoAE4AZQB3...
