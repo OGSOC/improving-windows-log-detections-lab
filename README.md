@@ -4,7 +4,7 @@
 
 This project focuses on reviewing Windows Security Event Logs to identify gaps in detection logic and reduce false positives.
 
-The goal was not to investigate a single alert, but to analyze existing log patterns and improve detection quality.
+The goal was not to investigate a single alert, but to analyse existing log patterns and improve detection quality.
 
 This reflects a common SOC task: tuning and strengthening alerts to improve signal-to-noise ratio.
 
